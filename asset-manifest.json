@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.46399a82.chunk.css",
+    "main.js": "/resume/static/js/main.df14698e.chunk.js",
+    "main.js.map": "/resume/static/js/main.df14698e.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.662a4c8d.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.662a4c8d.js.map",
+    "static/css/2.ffdfee16.chunk.css": "/resume/static/css/2.ffdfee16.chunk.css",
+    "static/js/2.9faf3d3c.chunk.js": "/resume/static/js/2.9faf3d3c.chunk.js",
+    "static/js/2.9faf3d3c.chunk.js.map": "/resume/static/js/2.9faf3d3c.chunk.js.map",
+    "static/js/3.9e35701a.chunk.js": "/resume/static/js/3.9e35701a.chunk.js",
+    "static/js/3.9e35701a.chunk.js.map": "/resume/static/js/3.9e35701a.chunk.js.map",
+    "static/css/4.13fe2b0c.chunk.css": "/resume/static/css/4.13fe2b0c.chunk.css",
+    "static/js/4.ae4f2300.chunk.js": "/resume/static/js/4.ae4f2300.chunk.js",
+    "static/js/4.ae4f2300.chunk.js.map": "/resume/static/js/4.ae4f2300.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.7e2b0f1e7a9aa3924974cc667acdfe93.js": "/resume/precache-manifest.7e2b0f1e7a9aa3924974cc667acdfe93.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.ffdfee16.chunk.css.map": "/resume/static/css/2.ffdfee16.chunk.css.map",
+    "static/css/4.13fe2b0c.chunk.css.map": "/resume/static/css/4.13fe2b0c.chunk.css.map",
+    "static/css/main.46399a82.chunk.css.map": "/resume/static/css/main.46399a82.chunk.css.map",
+    "static/js/2.9faf3d3c.chunk.js.LICENSE.txt": "/resume/static/js/2.9faf3d3c.chunk.js.LICENSE.txt",
+    "static/js/3.9e35701a.chunk.js.LICENSE.txt": "/resume/static/js/3.9e35701a.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpeg": "/resume/static/media/avatar.3e7b4ed4.jpeg",
+    "static/media/avatar.jpg": "/resume/static/media/avatar.6ca08aa0.jpg",
+    "static/media/avatars-000597831615-6q438f-t500x500.jpg": "/resume/static/media/avatars-000597831615-6q438f-t500x500.11ee4bf8.jpg",
+    "static/media/ayin_qoph.png": "/resume/static/media/ayin_qoph.f971dd94.png",
+    "static/media/contact.svg": "/resume/static/media/contact.aea271b9.svg",
+    "static/media/defaultAvatar.svg": "/resume/static/media/defaultAvatar.075fe2c0.svg",
+    "static/media/dummy-project.png": "/resume/static/media/dummy-project.1976f27f.png",
+    "static/media/focused_working.svg": "/resume/static/media/focused_working.9aece682.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662a4c8d.js",
+    "static/js/3.9e35701a.chunk.js",
+    "static/css/main.46399a82.chunk.css",
+    "static/js/main.df14698e.chunk.js"
+  ]
+}

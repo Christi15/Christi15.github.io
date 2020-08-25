@@ -1,5 +1,5 @@
 {
-  "homepage": "https://aqadir64.github.io",
+  "homepage": "https://christi15.github.io/resume/",
   "name": "dev",
   "version": "0.1.0",
   "private": true,
@@ -25,10 +25,10 @@
     "react-visibility-sensor": "^5.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
